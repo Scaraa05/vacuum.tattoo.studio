@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Specifica la posizione della sitemap
+Sitemap: https://www.vacuumtattoo.com/sitemap.xml
